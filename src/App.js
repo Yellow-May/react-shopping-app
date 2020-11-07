@@ -1,14 +1,7 @@
-import React, { Component } from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import React from "react";
 
-class App extends Component {
-  render() {
-    return (
-      <Router>
-        <div>Hello</div>
-      </Router>
-    );
-  }
-}
+const App = () => {
+  return <div>Shopping App 2.0</div>;
+};
 
 export default App;

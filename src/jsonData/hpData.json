@@ -1,0 +1,420 @@
+[
+  {
+    "itemId": "03a",
+    "name": "HP 15 Intel Celeron 1.6GHz (4GB Ram,500GB HDD) 15.6-Inch Screen Windows 10",
+    "brand": "HP",
+    "spec": {
+      "CPU": "Intel Celeron 1.6Ghz",
+      "GPU": "Intel HD Graphics",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "1366 x 768 pixels",
+      "RAM": "4GB",
+      "Storage Space": "500GB HDD",
+      "Operating System": "Windows 10",
+      "Weight": "2.5Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "97,990",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-15-Intel-Celeron-1-6GHz-4GB-Ram500GB-HDD-15-6-Inch-Screen-Windows-10-300x194.jpg"
+  },
+  {
+    "itemId": "03b",
+    "name": "HP 15: 15.6 inches Intel Core I3-2.0Ghz (6gb Ram, 500GB Hdd ) Windows 10",
+    "brand": "HP",
+    "spec": {
+      "CPU": "Intel Core i3",
+      "GPU": "Intel HD Graphics",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "1366 x 768 pixels",
+      "RAM": "6GB",
+      "Storage Space": "500GB HDD",
+      "Operating System": "Windows 10",
+      "Weight": "2.5Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "158,900",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-15-Intel-Core-I3-2-0Ghz-6gb-Ram500GB-Hdd-Windows-10-Laptop-300x195.jpg"
+  },
+  {
+    "itemId": "03c",
+    "name": "HP 15 Intel Corei3 Processor (2TB Hdd, 8GB Ram) Windows 10",
+    "brand": "HP",
+    "spec": {
+      "CPU": "Intel Core i3",
+      "GPU": "Intel HD Graphics",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "1366 x 768 pixels",
+      "RAM": "8GB",
+      "Storage Space": "2TB HDD",
+      "Operating System": "Windows 10",
+      "Weight": "2.5Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "175,000",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-15-Intel-Corei3-Processor-2TB-Hdd-8GB-Ram-Windows-10-Home-Backlit-Keyboeard-64-Bit-Freebag32gb-Flah-Red-300x219.jpg"
+  },
+  {
+    "itemId": "03d",
+    "name": "HP 15 INTEL PENTIUM -2.56GHZ 1TB HARD DRIVE 4GB RAM DVD, 15.6 SCREEN WINDOWS 10",
+    "brand": "HP",
+    "spec": {
+      "CPU": "Intel Pentium 2.56Ghz",
+      "GPU": "Intel HD Graphics",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "1366 x 768 pixels",
+      "RAM": "4GB",
+      "Storage Space": "1TB",
+      "Operating System": "Windows 10",
+      "Weight": "3Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "130,000",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-15-INTEL-PENTIUM-2-56GHZ-1TB-HARD-DRIVE-4GB-RAM-DVD-15-6-SCREEN-WINDOWS-10-300x200.jpg"
+  },
+  {
+    "itemId": "03e",
+    "name": "HP 15 Pentium Quad Core (up To 2.56GHz) 8gb Ram, 500gb Hdd",
+    "brand": "HP",
+    "spec": {
+      "CPU": "Intel Pentium",
+      "GPU": "Intel® HD Graphics 405",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "1366 x 768 pixels",
+      "RAM": "8GB",
+      "Storage Space": "500GB HDD",
+      "Operating System": "Windows 10",
+      "Weight": "3 Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "131,000",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-15-Pentium-Quad-Core-up-To-2-56GHz-8gb-Ram-500gb-Hdd-Free-Licensed-Antivirus-Windows-10-300x182.jpg"
+  },
+  {
+    "itemId": "03f",
+    "name": "HP 15 Pentium® Quad-Core N3710 1.6GHz 500GB 4GB 15.6 (TOUCHSCREEN DVD-RW WIN10 )",
+    "brand": "HP",
+    "spec": {
+      "CPU": "Intel Pentium Quad Core",
+      "GPU": "Intel HD Graphics",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "1366 x 768 pixels",
+      "RAM": "4GB",
+      "Storage Space": "500GB HDD",
+      "Operating System": "Windows 10",
+      "Weight": "2.7 Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "135,000",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-15-Pentium-Quad-Core-N3710-1-6GHz-500GB-4GB-15-6-TOUCHSCREEN-DVD-RW-WIN10-Webcam-300x191.jpg"
+  },
+  {
+    "itemId": "03g",
+    "name": "HP 15-BS020wm (2DV78UA) TOUCHSMART Pentium® Quad-Core N3710 1.6GHz 500GB 4GB 15.6 (1366x768)",
+    "brand": "HP",
+    "spec": {
+      "CPU": "Intel Pentium Quad Core 1.6Ghz",
+      "GPU": "Intel HD Graphics",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "1366 x 768 pixels",
+      "RAM": "4GB",
+      "Storage Space": "500GB HDD",
+      "Operating System": "Windows 10",
+      "Weight": "2.7Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "124,800",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-15-BS020wm-2DV78UA-TOUCHSMART-Pentium-Quad-Core-N3710-1-6GHz-500GB-4GB-15-6-1366x768-TOUCHSCREEN-DVD-RW-WIN10-Webcam-300x212.jpg"
+  },
+  {
+    "itemId": "03h",
+    "name": "HP 250 G5 Notebook 4GB RAM, 500GB HDD, Windows 10, 15.6 inches",
+    "brand": "HP",
+    "spec": {
+      "CPU": "Intel Celeron Processor",
+      "GPU": "Intel HD Graphics 400",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "1366 x 768 pixels",
+      "RAM": "4 GB DDR3L-1600 SDRAM",
+      "Storage Space": "500 GB 5400 rpm SATA",
+      "Operating System": "Windows 10",
+      "Weight": "1.9 Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "109,500",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-250-G5-Notebook-4GB-RAM-500GB-HDD-Windows-10-15-6-inches-300x206.jpg"
+  },
+  {
+    "itemId": "03i",
+    "name": "HP 250 G6 NOTEBOOK PC INTEL CORE I3 4GB,500",
+    "brand": "HP",
+    "spec": {
+      "CPU": "Intel Core i3",
+      "GPU": "Intel® HD Graphics 520",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "1366 x 768 pixels",
+      "RAM": "4GB",
+      "Storage Space": "500GB",
+      "Operating System": "Windows 10",
+      "Weight": "1.86 Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "132,000",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-250-G6-NOTEBOOK-PC-INTEL-CORE-I3-4GB500-FREE-DOS-300x201.jpg"
+  },
+  {
+    "itemId": "03j",
+    "name": "HP 255 AMD Quad Core (500GB HDD,4GB+ 32GB Flash) Windows 10",
+    "brand": "HP",
+    "spec": {
+      "CPU": "AMD Quad Core",
+      "GPU": "AMD Graphics",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "1366 x 768 pixels",
+      "RAM": "4GB",
+      "Storage Space": "500GB",
+      "Operating System": "Windows 10",
+      "Weight": "3 Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "92,900",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-255-AMD-Quad-Core-500GB-HDD4GB-32GB-Flash-Windows-10-300x194.jpg"
+  },
+  {
+    "itemId": "03k",
+    "name": "HP 255 G6 AMD Quad-Core 500GB 4GB DVD 15.6 Windows 10",
+    "brand": "HP",
+    "spec": {
+      "CPU": "AMD Quad Core",
+      "GPU": "AMD",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "1366 x 768 pixels HD",
+      "RAM": "4GB",
+      "Storage Space": "500GB HDD",
+      "Operating System": "Windows 10",
+      "Weight": "2.5Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "97,500",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-Hp-255-G6-AMD-Quad-Core-500GB-4GB-DVD-15-6-Windows-10-Free-Bag32Gb-Flash-Drive-300x210.jpg"
+  },
+  {
+    "itemId": "03l",
+    "name": "HP15 7th Generation Intel Core I3-7100U 2.4Ghz 1TB HDD 4GB RAM 15 Inch DVD+RW Win 10",
+    "brand": "HP",
+    "spec": {
+      "CPU": "Intel® Core™ i3-7100U 2.4 GHz",
+      "GPU": "Intel® HD Graphics 620 (up to 2.07 GB)",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "1366 x 768 pixels",
+      "RAM": "4 GB DDR4-2133 SDRAM",
+      "Storage Space": "1TB",
+      "Operating System": "Windows 10",
+      "Weight": "2.0Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "150,000",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-HP15-7th-Generation-Intel-Core-I3-7100U-2-4Ghz-1TB-HDD-4GB-RAM-15-Inch-DVDRW-Win-10USB-LED-32GB-Flash-300x205.jpg"
+  },
+  {
+    "itemId": "03m",
+    "name": "HP Laptop 15-bs023ca - Intel Core I3 - 2.0GHz, 8GB RAM, 1TB HDD, 15.6",
+    "brand": "HP",
+    "spec": {
+      "CPU": "Intel Core i3-6100U Dual-Core Processor 2.3Ghz",
+      "GPU": "Intel HD Graphics",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "HD (1366 x 768) SVA Brightview WLED-backlit Display",
+      "RAM": "8GB DDR3 SDRAM",
+      "Storage Space": "1TB",
+      "Operating System": "Windows 10",
+      "Weight": "2.3Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "165,200",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-HP-Laptop-15-bs023ca-Intel-Core-I3-2-0GHz-8GB-RAM-1TB-HDD-15-6-With-BagWireless-Mouse-300x201.jpg"
+  },
+  {
+    "itemId": "03n",
+    "name": "HP Notebook 14-bs079nia Intel Celeron N3060 1.6Ghz (4GB RAM 500GB HDD)",
+    "brand": "HP",
+    "spec": {
+      "CPU": "Intel® Celeron® N3060 (1.6 GHz)",
+      "GPU": "Intel HD Graphics",
+      "Display Size": "14 inches",
+      "Display Resolution": "1366 x 768 pixels",
+      "RAM": "4 GB DDR3L-1600 SDRAM",
+      "Storage Space": "500 GB 5400 rpm SATA",
+      "Operating System": "Windows 10",
+      "Weight": "1.9Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "91,000",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-Notebook-14-bs079nia-Intel-Celeron-N3060-1-6Ghz-4GB-RAM-500GB-HDD-Webcam-Bluetooth-No-Windows-Laptop-Black-300x211.jpg"
+  },
+  {
+    "itemId": "03o",
+    "name": "HP Pavilion 14- Intel Core I3- 1TB HDD 8GB RAM Backlit Win10 Home",
+    "brand": "HP",
+    "spec": {
+      "CPU": "Intel Core i3-6100U",
+      "GPU": "Intel HD Graphics",
+      "Display Size": "14 inches",
+      "Display Resolution": "1366 x 768 pixels",
+      "RAM": "8 GB DDR4 SDRAM",
+      "Storage Space": "1 TB 5400 RPM Serial ATA",
+      "Operating System": "Windows 10",
+      "Weight": "1.5Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "181,000",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-Pavilion-14-Intel-Core-I3-1TB-HDD-8GB-RAM-Backlit-Win10-Home-GOLD32GB-FLASH-DRIVE-300x196.jpg"
+  },
+  {
+    "itemId": "03p",
+    "name": "HP Pavilion 14 X360, Intel Core I3-7200U 2.4GHz (8GB RAM, 500GB HDD) Convertible",
+    "brand": "HP",
+    "spec": {
+      "CPU": "Intel Core i3-7100U processor",
+      "GPU": "Intel HD Graphics",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "1366 x 768 pixels",
+      "RAM": "8GB",
+      "Storage Space": "500GB HDD",
+      "Operating System": "Windows 10",
+      "Weight": "2.15 Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "178,000",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-Pavilion-14-X360-Intel-Core-I3-7200U-2-4GHz-8GB-RAM-500GB-HDD-Convertible-Touch-Screenfree-Headfone-14-0-Inch-HD-Wins-10-Silver-300x230.jpg"
+  },
+  {
+    "itemId": "03q",
+    "name": "HP Pavilion 15 HP - Intel Core I5 - 1TB HDD 12GB RAM - Window 10+32gb Flash Drive",
+    "brand": "HP",
+    "spec": {
+      "CPU": "Intel® Core™ i5-7200U (2.5 GHz base frequency)",
+      "GPU": "Intel® HD Graphics 62",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "1366 x 768 pixels",
+      "RAM": "12 GB DDR4-2133 SDRAM",
+      "Storage Space": "1TB HDD",
+      "Operating System": "Windows 10",
+      "Weight": "2.11 Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "199,500",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-Pavilion-15-HP-Intel-Core-I5-1TB-HDD-12GB-RAM-Window-10-32gb-Flash-Drive-300x186.jpg"
+  },
+  {
+    "itemId": "03t",
+    "name": "HP Pavilion 15-cc020nr - Intel Core I7,7500u 2.7 GHz (12 GB RAM 1 TB HDD) 7th Generation 15.6 Inches Windows 10 Laptop",
+    "brand": "HP",
+    "spec": {
+      "CPU": "Intel® Core™ i7-7500U (2.7 GHz base frequency, up to 3.5 GHz with Intel® Turbo Boost",
+      "GPU": "NVIDIA® GeForce® 940MX (4 GB DDR3 dedicated)",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "1366 x 768 pixels",
+      "RAM": "12 GB DDR4-2133 SDRAM ",
+      "Storage Space": "1 TB 5400 rpm SATA",
+      "Operating System": "Windows 10",
+      "Weight": "1.9Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "259,000",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-Pavilion-15-cc020nr-Intel-Core-I77500u-2-7-GHz-12-GB-RAM-1-TB-HDD-7th-Generation-15-6-Inches-Windows-10-LaptopHP-MOUSE-300x189.jpg"
+  },
+  {
+    "itemId": "03r",
+    "name": "HP Pavilion X360 (Intel Core I5-7200U 2.5GHz, 8GB RAM, 1TB HDD) 15.6 Inch Touch Screen, Windows 10)",
+    "brand": "HP",
+    "spec": {
+      "CPU": "7th Generation Intel® Core™ i5 processor 2.5gHZ",
+      "GPU": "AMD Radeon™ 530 Graphics (2 GB DDR3 dedicated)",
+      "Display Size": "15.6 inches",
+      "Display Resolution": "1920 x 1080 pixels",
+      "RAM": "8GB",
+      "Storage Space": "1TB",
+      "Operating System": "Windows 10",
+      "Weight": "2.14Kgs"
+    },
+    "category": {
+      "main": "",
+      "sub": ""
+    },
+    "price": "200,000",
+    "quantity": 1,
+    "image": "https://naijaprice.com/wp-content/uploads/2018/03/HP-Pavilion-X360-Intel-Core-I5-7200U-2-5GHz-8GB-RAM-1TB-HDD-15-6-Inch-Touch-Screen-Windows-10-Natural-Silver-2FN78EA-300x190.jpg"
+  }
+]
