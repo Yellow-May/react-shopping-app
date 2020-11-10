@@ -13,12 +13,8 @@
       "Operating System": "Windows 10",
       "Weight": "2Kgs"
     },
-    "category": {
-      "main": "",
-      "sub": ""
-    },
     "price": "132,000",
-    "quantity": 1,
+    "quantity": 32,
     "image": "https://naijaprice.com/wp-content/uploads/2018/03/ASUS-Intel-Core-I3-4GB-RAM-500GB-HDD-Free-32gb-Flash-Drive-15-6-PC-Computer-Black-300x200.jpg"
   },
   {
@@ -35,12 +31,8 @@
       "Operating System": "Windows 10",
       "Weight": "4.8 Kgs"
     },
-    "category": {
-      "main": "",
-      "sub": ""
-    },
     "price": "899,999",
-    "quantity": 1,
+    "quantity": 6,
     "image": "https://naijaprice.com/wp-content/uploads/2018/03/ASUS-INTEL-CORE-I7-1TB-GAMING-LAPTOP-G751JT-T7202T-300x200.jpg"
   },
   {
@@ -57,12 +49,8 @@
       "Operating System": "Windows 10",
       "Weight": "3Kgs"
     },
-    "category": {
-      "main": "",
-      "sub": ""
-    },
     "price": "662,999",
-    "quantity": 1,
+    "quantity": 8,
     "image": "https://naijaprice.com/wp-content/uploads/2018/03/ASUS-INTEL-CORE-I7-1TB-GAMING-LAPTOP-GL752VW-T4254T-300x200.jpg"
   },
   {
@@ -78,10 +66,6 @@
       "Storage Space": "500GB HDD",
       "Operating System": "Windows 10",
       "Weight": "2Kgs"
-    },
-    "category": {
-      "main": "",
-      "sub": ""
     },
     "price": "115,000",
     "quantity": 1,
@@ -101,12 +85,8 @@
       "Operating System": "Windows 10",
       "Weight": "1.9Kgs"
     },
-    "category": {
-      "main": "",
-      "sub": ""
-    },
     "price": "122,030",
-    "quantity": 1,
+    "quantity": 4,
     "image": "https://naijaprice.com/wp-content/uploads/2018/03/ASUS-Mini-Transformer-Intel-Atom-2GB500GB32GB-HDD-10-1-Inch-Windows-10-Laptop-300x250.jpg"
   },
   {
@@ -123,12 +103,8 @@
       "Operating System": "Windows 10",
       "Weight": "3Kgs"
     },
-    "category": {
-      "main": "",
-      "sub": ""
-    },
     "price": "495,000",
-    "quantity": 1,
+    "quantity": 5,
     "image": "https://naijaprice.com/wp-content/uploads/2018/03/ASUS-PRO-B9448U-Intel-Core-I7-2-5-GHz-Processor-512GB-SSD-8GB-RAM-Win-10-Pro-Grey-300x250.jpg"
   },
   {
@@ -145,12 +121,8 @@
       "Operating System": "Windows 10",
       "Weight": "4Kgs"
     },
-    "category": {
-      "main": "",
-      "sub": ""
-    },
     "price": "375,000",
-    "quantity": 1,
+    "quantity": 2,
     "image": "https://naijaprice.com/wp-content/uploads/2018/03/ASUS-Q524UQ-BHI7T15-2-IN-1-Intel-Core-I7-7500U-2-7GHz-2tb-12gb-2gb-Nvidia-Cam-Blth-Touch-Backlit-15-1920x10890-Win10-300x200.jpg"
   },
   {
@@ -167,12 +139,8 @@
       "Operating System": "Windows 10",
       "Weight": "5Kgs"
     },
-    "category": {
-      "main": "",
-      "sub": ""
-    },
     "price": "1,300,000",
-    "quantity": 1,
+    "quantity": 11,
     "image": "https://naijaprice.com/wp-content/uploads/2018/03/ASUS-ROG-G701VI-XB78K-17-3-Inch-Gaming-Laptop-Intel-Core-I7-64GB-SDRAM-1TB-HDD-Windows-10-300x200.jpg"
   },
   {
@@ -189,12 +157,8 @@
       "Operating System": "Windows 10",
       "Weight": "4.6Kgs"
     },
-    "category": {
-      "main": "",
-      "sub": ""
-    },
     "price": "1,285,000",
-    "quantity": 1,
+    "quantity": 9,
     "image": "https://naijaprice.com/wp-content/uploads/2018/03/Asus-Rog-Strix-G502Vs-Fy275T-2-8Ghz-I7-7700Hq-15-6-1920-X-1080Pixels-Titanium-Notebook-300x200.jpg"
   },
   {
@@ -211,56 +175,8 @@
       "Operating System": "Windows 10",
       "Weight": "2.2Kgs"
     },
-    "category": {
-      "main": "",
-      "sub": ""
-    },
     "price": "768,000",
-    "quantity": 1,
+    "quantity": 10,
     "image": "https://naijaprice.com/wp-content/uploads/2018/03/ASUS-ROG-Strix-GL502VS-WS71-Intel-Core-I7-16GBRAM1TB-HDD256GB-SSD8GB-NVIDIA-GeForce920MX-1070Win-10-300x200.jpg"
-  },
-  {
-    "itemId": "04k",
-    "name": "ASUS S200E Intel Celeron 1.40GHz (2GB,500GB HDD) 11.6-Inch Windows 8 Touchscreen Laptop",
-    "brand": "ASUS",
-    "spec": {
-      "CPU": "Intel Celeron",
-      "GPU": "Intel HD Graphics",
-      "Display Size": "11.6 inches",
-      "Display Resolution": "1366 x 768 HD",
-      "RAM": "2GB",
-      "Storage Space": "500GB HDD",
-      "Operating System": "Windows 10",
-      "Weight": "1.3Kgs"
-    },
-    "category": {
-      "main": "",
-      "sub": ""
-    },
-    "price": "139,600",
-    "quantity": 1,
-    "image": "https://naijaprice.com/wp-content/uploads/2018/03/ASUS-S200E-Intel-Celeron-1-40GHz-2GB500GB-HDD-11-6-Inch-Windows-8-Touchscreen-Laptop-Brown-300x200.jpg"
-  },
-  {
-    "itemId": "04l",
-    "name": "ASUS T303U INTEL CORE I5 12.6INCHES 256GBSSD 8GBRAM WIN10",
-    "brand": "ASUS",
-    "spec": {
-      "CPU": "Intel Core i5",
-      "GPU": "Intel HD Graphics",
-      "Display Size": "12.6 inches",
-      "Display Resolution": "1366 x 768 HD",
-      "RAM": "8GB",
-      "Storage Space": "256GB SSD",
-      "Operating System": "Windows 10",
-      "Weight": "1.5Kgs"
-    },
-    "category": {
-      "main": "",
-      "sub": ""
-    },
-    "price": "285,000",
-    "quantity": 1,
-    "image": "https://naijaprice.com/wp-content/uploads/2018/03/ASUS-T303U-INTEL-CORE-I5-12-6-INCHES-256GB-SSD-8GB-RAM-WIN10-300x200.jpg"
   }
 ]

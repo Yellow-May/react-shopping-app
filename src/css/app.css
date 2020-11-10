@@ -1,0 +1,119 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  letter-spacing: 0.1rem;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 85%;
+  width: 100%;
+  height: 100%;
+}
+
+.app {
+  width: 100%;
+  height: 100%;
+}
+
+header,
+footer {
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  position: relative;
+  z-index: 10;
+}
+
+header nav a {
+  text-decoration: none;
+  color: #ffa;
+  padding: 0 0.5rem;
+  text-transform: uppercase;
+}
+
+header button.btn-back {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  border: thin solid #fff;
+  outline: none;
+  background: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  cursor: pointer;
+  position: absolute;
+  z-index: 9;
+  bottom: -3rem;
+  left: 0.5rem;
+}
+
+header button.btn-back svg {
+  height: 1rem;
+  width: 1rem;
+  transform-origin: center;
+  transform: rotate(180deg);
+  fill: #fff;
+  pointer-events: none;
+}
+
+main.home {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.8rem;
+  width: 100%;
+  color: #ffa;
+}
+
+main.home a {
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 0.6rem 1.5rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+main.home a p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+main.home a p svg {
+  height: 1rem;
+  width: 1rem;
+  fill: #fff;
+}
+
+/* general styling for shop, goods, cart */
+main.shop,
+main.goods,
+main.cart {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+main.shop h1,
+main.goods h1,
+main.cart h1 {
+  text-align: center;
+  width: 100%;
+  padding: 0.6rem;
+  background: rgba(0, 0, 0, 0.5);
+  border-bottom: thick solid #fa0;
+  color: #fff;
+}

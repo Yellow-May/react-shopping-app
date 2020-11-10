@@ -1,0 +1,70 @@
+div.modal {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.1);
+  height: 100%;
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.modal .alert {
+  position: relative;
+  width: 100%;
+  padding: 1rem;
+  background: #cfcfcf;
+}
+
+div.modal .alert .content {
+  width: 100%;
+  color: #000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  gap: 1rem;
+}
+div.modal .alert .content ul {
+  padding-left: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+div.modal .alert .content h2 {
+  text-align: center;
+  text-shadow: 0.3rem 0.3rem 0.5rem #111;
+}
+
+div.modal .alert button.close {
+  position: absolute;
+  bottom: -2rem;
+  right: 0;
+  border: none;
+  outline: none;
+  color: #f10;
+  font-weight: 600;
+  cursor: pointer;
+  text-transform: uppercase;
+  padding: 0.5rem 1.5rem;
+  background: #cfcfcf;
+}
+
+/* media Queries */
+@media (min-width: 640px) {
+  div.modal .alert {
+    width: 80%;
+    margin: auto;
+    padding: 2rem;
+    border-radius: 1rem;
+  }
+}
+
+@media (min-width: 950px) {
+  div.modal .alert {
+    width: 70%;
+    margin: auto;
+    padding: 3rem;
+  }
+}
