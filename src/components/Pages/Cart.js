@@ -35,6 +35,7 @@ export const Cart = () => {
     if (cartData.length !== 0) {
       newTotal();
     }
+    		// eslint-disable-next-line react-hooks/exhaustive-deps
   }, [cartData]);
 
   const handleClick = (e) => {
