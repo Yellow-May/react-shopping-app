@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
--  Live Site URL: [Live Site](https://react-redux-todo-app-with-theme-changer.vercel.app/)
+-  Live Site URL: [Live Site](https://shop-app-ymay.netlify.app/)
 
 ## My process
 
