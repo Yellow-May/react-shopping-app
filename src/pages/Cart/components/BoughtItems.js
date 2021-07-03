@@ -31,7 +31,7 @@ const BoughtItems = ({ cartdata }) => {
 				))}
 			</Styled.ListWrapper>
 			<Styled.Total>
-				<span>Total</span>${cartdata.reduce((a, b) => a + b.price, 0)}
+				<span>Total</span>${cartdata.reduce((a, b) => a + b.price * b.quantity, 0)}
 			</Styled.Total>
 		</>
 	);
