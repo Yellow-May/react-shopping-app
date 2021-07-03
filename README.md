@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
--  Live Site URL: [Live Site](https://shop-app-ymay.netlify.app/)
+-  Live Site URL: [Live Site](https://react-shopping-app.vercel.app/)
 
 ## My process
 
