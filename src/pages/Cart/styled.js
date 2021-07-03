@@ -3,11 +3,14 @@ import styled from "styled-components";
 const Styled = {
 	Wrapper: styled.main({
 		width: "100%",
-		padding: "20px 2.5vh",
+		padding: "20px 2.5vw",
 
-		">button": {
-			marginLeft: "auto",
-		},
+		">button": { marginLeft: "auto" },
+
+		"@media (min-width: 640px)": { padding: "25px 5vw" },
+		"@media (min-width: 768px)": { padding: "25px 8vw" },
+		"@media (min-width: 960px)": { padding: "30px 11vw" },
+		"@media (min-width: 1024px)": { padding: "30px 15vw" },
 	}),
 
 	EmptyText: styled.h5({

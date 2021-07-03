@@ -11,7 +11,7 @@ export const Card = {
 
 	ImgWrapper: styled.div({
 		width: "100%",
-		height: 100,
+		height: 125,
 		display: "flex",
 		justifyContent: "center",
 		alignItems: "center",
@@ -21,6 +21,10 @@ export const Card = {
 			maxWidth: "100%",
 			maxHeight: "100%",
 		},
+
+		"@media (min-width: 640px)": { height: 200 },
+		"@media (min-width: 768px)": { height: 150 },
+		"@media (min-width: 960px)": { height: 175 },
 	}),
 
 	ContentWrapper: styled.div({
@@ -49,9 +53,14 @@ export const Card = {
 const Styled = {
 	Wrapper: styled.main({
 		width: "100%",
-		padding: "20px 2.5vh",
+		padding: "20px 2.5vw",
 
 		">button": { margin: "auto" },
+
+		"@media (min-width: 640px)": { padding: "25px 5vw" },
+		"@media (min-width: 768px)": { padding: "25px 8vw" },
+		"@media (min-width: 960px)": { padding: "30px 11vw" },
+		"@media (min-width: 1024px)": { padding: "30px 15vw" },
 	}),
 
 	Heading: styled.h1({
@@ -63,8 +72,10 @@ const Styled = {
 	Container: styled.div({
 		marginTop: 15,
 		display: "grid",
-		gridTemplateColumns: "1fr 1fr",
+		gridTemplateColumns: "repeat(2, 1fr)",
 		gap: 25,
+
+		"@media (min-width: 768px)": { gridTemplateColumns: "repeat(3, 1fr)" },
 	}),
 };
 

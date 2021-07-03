@@ -39,6 +39,16 @@ const Styled = {
 		backgroundColor: "grey",
 		display: "block",
 		margin: "10px 0",
+
+		"@media (min-width: 640px)": {
+			height: size === "bg" ? 350 : variant === "img" ? 150 : variant === "p" ? 7 : 12,
+		},
+		"@media (min-width: 768px)": {
+			height: size === "bg" ? 400 : variant === "img" ? 120 : variant === "p" ? 8 : 13,
+		},
+		"@media (min-width: 1024px)": {
+			height: size === "bg" ? 450 : variant === "img" ? 160 : variant === "p" ? 9 : 14,
+		},
 	})),
 };
 

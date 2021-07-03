@@ -3,9 +3,14 @@ import styled from "styled-components";
 const Styled = {
 	Wrapper: styled.main({
 		width: "100%",
-		padding: "20px 2.5vh",
+		padding: "20px 2.5vw",
 
 		">button": { margin: "auto" },
+
+		"@media (min-width: 640px)": { padding: "25px 5vw" },
+		"@media (min-width: 768px)": { padding: "25px 8vw" },
+		"@media (min-width: 960px)": { padding: "30px 11vw" },
+		"@media (min-width: 1024px)": { padding: "30px 15vw" },
 	}),
 
 	ItemContainer: styled.div({ ">*": { marginBottom: 20, "&:last-child": { marginBottom: 0 } } }),
@@ -22,6 +27,10 @@ const Styled = {
 			maxWidth: "100%",
 			maxHeight: "100%",
 		},
+
+		"@media (min-width: 640px)": { height: 300 },
+		"@media (min-width: 768px)": { height: 350 },
+		"@media (min-width: 960px)": { height: 400 },
 	}),
 
 	ItemHeading: styled.h2({
